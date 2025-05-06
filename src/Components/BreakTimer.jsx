@@ -34,7 +34,7 @@ const BreakTime = () => {
                         });
                     } else {
                         alert("All cycles completed!");
-                        navigate('/Home'); // Or a completion page
+                        navigate('/Home'); 
                     }
                     return 0;
                 }
