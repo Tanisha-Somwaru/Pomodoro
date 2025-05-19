@@ -6,3 +6,10 @@ Pomodoro is a MERN-stack based website that helps the user manage their time eff
 - Express.js.
 - React.
 - Node.js.
+
+## Project Team Members
+- [@mjones123425](https://www.github.com/mjones123425)
+- [@SilverCobra54](https://www.github.com/SilverCobra54)
+- [@Johne83](https://www.github.com/Johne83)
+- [@KentaLange](https://www.github.com/KentaLange)
+- [@Tanisha-Somwaru](https://www.github.com/Tanisha-Somwaru)
