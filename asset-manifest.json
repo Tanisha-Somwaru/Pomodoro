@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b4ef4407.css",
-    "main.js": "/react-gh-pages/static/js/main.d2cadbdf.js",
-    "static/js/453.1b6d1e41.chunk.js": "/react-gh-pages/static/js/453.1b6d1e41.chunk.js",
-    "static/media/logo.png": "/react-gh-pages/static/media/logo.6ce5862bc4b7853b1903.png",
-    "static/media/HomeBackground.png": "/react-gh-pages/static/media/HomeBackground.29d8083d17d7a92a0f4d.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b4ef4407.css.map": "/react-gh-pages/static/css/main.b4ef4407.css.map",
-    "main.d2cadbdf.js.map": "/react-gh-pages/static/js/main.d2cadbdf.js.map",
-    "453.1b6d1e41.chunk.js.map": "/react-gh-pages/static/js/453.1b6d1e41.chunk.js.map"
+    "main.css": "/Pomodoro/static/css/main.0c68eb1d.css",
+    "main.js": "/Pomodoro/static/js/main.66265921.js",
+    "static/js/453.1b6d1e41.chunk.js": "/Pomodoro/static/js/453.1b6d1e41.chunk.js",
+    "static/media/logo.png": "/Pomodoro/static/media/logo.6ce5862bc4b7853b1903.png",
+    "static/media/HomeBackground.png": "/Pomodoro/static/media/HomeBackground.29d8083d17d7a92a0f4d.png",
+    "index.html": "/Pomodoro/index.html",
+    "main.0c68eb1d.css.map": "/Pomodoro/static/css/main.0c68eb1d.css.map",
+    "main.66265921.js.map": "/Pomodoro/static/js/main.66265921.js.map",
+    "453.1b6d1e41.chunk.js.map": "/Pomodoro/static/js/453.1b6d1e41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4ef4407.css",
-    "static/js/main.d2cadbdf.js"
+    "static/css/main.0c68eb1d.css",
+    "static/js/main.66265921.js"
   ]
 }
